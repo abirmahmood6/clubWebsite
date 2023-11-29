@@ -3,7 +3,7 @@
 ## Get Started Guidelines
   - Fork repository
   - Clone your forked repository locally
-  - Run <npm i>
+  - Run "npm i"
   - Create your branch, name it after major feature / part of the website you are working on
 
 ## Commit Guidelines
